@@ -11,7 +11,7 @@ CPP code to generate and solve sudoku
 			
 # ALGORITHM USED  :
  
-    Backtrack for both generator and solver.
+    Backtrack.
 		
 # DEVELOPMENT ENVIRONMENT :
 
