@@ -41,11 +41,11 @@ CPP code to generate and solve sudoku
 # COMPILE AND RUN  :
 
 	-compilation  -> g++ myHeader.cpp main.cpp input.cpp solver.cpp generator.cpp
-	-run		      -> ./a.out
+	-run          -> ./a.out
 	
 # AUTHOR		   :
 
-	NAME 		    -> SAKSHI TIWARI
+	NAME        -> SAKSHI TIWARI
 	UNI ROLL NO.-> 2010468
 	SECTION     -> C
 	  
